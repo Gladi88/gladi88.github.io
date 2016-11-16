@@ -1,0 +1,13 @@
+Package: com.gladi88.gladitweaktest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Gladi88 <nissib88.wb@gmail.com>
+Filename: /gladitweaktest
+Size: 2264
+MD5sum: 9b5c3ac8d3332d55e364ceb5983b6882
+SHA1: 25ef481363cf39af01a67f986d9c6243ca1230ae
+SHA256: d0daba752f51c1e1ee8d3203ed4f66dd8ffc3d2a46f7e675d3bf7cea816aa639
+Section: Tweaks
+Description: A first test tweak for my first repo
+Author: Gladi88 <nissib88@gmail.com>
+Name: gladitweaktest

@@ -1,0 +1,8 @@
+Origin: Gladi88's Private Repo (For Testing)
+Label: Gladi88's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Gladi88's Repo
